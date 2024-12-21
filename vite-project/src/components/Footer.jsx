@@ -28,8 +28,8 @@ function Footer() {
 
         </div>
       </div>
-      <div className='mb-2 border-t border-gray-700 py-4 mt-10 text-center text-gray-100'>
-        <p className='text-gray-400 text-center mt-8'>© 2024 Real State. All rights reserved.</p>
+      <div className='mb-1 border-t border-gray-700 py-4 mt-10 text-center text-gray-100'>
+        <p className='text-gray-400 text-center'>© 2024 Real State. All rights reserved.</p>
       </div>
     </div>
   )
